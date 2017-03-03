@@ -1,0 +1,160 @@
+body{
+    background: url("img/bg.jpg")  center;
+   
+}
+
+.container {
+width: 720px;
+margin: 0 auto;
+background-image:url("img/full.jpg");
+
+}
+.puce {
+list-style-image: url("img/bullet.gif") ;
+ 
+}
+#boite {
+ border:  3px solid yellow;
+
+}
+#bordure{
+    width : 260px;
+}
+#fin{
+    color: white;
+    padding : 3px;
+}
+#update{
+    font-size:1.5em;
+    color: white;
+    font-weight: bold;
+    border-top: 3px solid yellow
+}
+.cote{
+    list-style-type: none;
+    font-weight: bold;
+    color: white;
+    font-size: 1.5 em;
+
+}
+#para{
+    background: yellow;
+    color: purple;
+    font-weight: bold;
+    font-size:1em;
+}
+.grandepuce {
+list-style-image: url("img/star1.jpg") ;
+ font-size : 2em;
+    font-weight: bold;
+    color: white;
+ 
+}
+#liste{
+    color: white;
+}
+#free {
+ font-size : 5em;
+    font-weight: bold;
+    color: white;
+    line-height: 70%;
+    text-align: center;
+    margin-top: 50px;
+}
+.yellow {
+    color: yellow;
+    height: 3px;
+}
+.titre {
+    font-weight: bold;
+    color: white;
+    list-style-type:none;
+
+}
+.stitre {
+    list-style-type:none;
+    background: grey;
+    border-top: 1px solid white;
+     border-bottom: 1px solid white;
+
+}
+#bg{
+    background:url('img/title_1good.png') no-repeat center center;
+   height: 372px;
+    width: 285px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#interstice{
+    height: 1000px;
+}
+H1 {
+  border-top:  5px solid yellow;
+}  
+
+
+
+.foot{
+   margin-top: 10px;
+      color: white;
+ width : 350px;
+  margin-left: auto;
+    margin-right: auto;
+    border-top: 3px solid yellow;
+     border-bottom: 3px solid yellow;
+     background-color: grey;
+     padding: 3px;
+}
+.encart{
+   margin-top: 10px;   
+  margin-left: auto;
+    margin-right: auto;
+    border-left: 3px solid yellow;
+    color: yellow;
+    padding: 3px;
+}
+.pouet {color:white;}
+
+#pied{
+    background:url('img/footer.gif') no-repeat center center;
+   height: 288px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.flotte {
+float:left;
+border: 3px solid yellow;
+padding : 4px;
+margin: 4px;
+}
+#droite {
+  float:right;
+border: 3px solid yellow;
+padding : 4px;
+margin: 4px;  
+}
+.skate {
+border: 30px yellow;
+}
+H1{
+    color: white;
+    text-align: center;
+    font-size : 2em;
+    font-weight: bold;
+}
+H3{
+    color: black;
+    text-align: center;
+    background: yellow;
+}
+.article{
+    color: white;
+    text-align: justify;
+    font-size : 1em;
+
+}
+#repas{
+    margin-bottom: 10px;
+}
